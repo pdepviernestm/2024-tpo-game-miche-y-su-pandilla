@@ -12,7 +12,7 @@
 - Tenemos la idea de que la velocidad de los obstaculos aumente.
 - la velocidad de caidad de guido aumente.
 
--Detalles auditivos
+## Detalles auditivos
 la idea es que sean graciosos / bizarros
 
 
