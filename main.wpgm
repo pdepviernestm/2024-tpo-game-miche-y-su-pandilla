@@ -1,0 +1,11 @@
+import wollok.game.*
+import centralGuido.*
+
+program juego { 	
+	game.height(25)
+	game.width(25)
+	game.cellSize(30)
+
+	guidoBird.showMenu()
+	game.start()
+}
